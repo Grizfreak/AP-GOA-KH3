@@ -6,7 +6,7 @@ An unreal project for modding Kingdom Hearts III
 
 # Discord Server
 
-Join the OpenKH [discord server](https://discord.gg/SvQ5GeMxv) to learn more about modding.
+Join the OpenKH [discord server](https://discord.openkh.dev/) to learn more about modding.
 
 
 # Installation
