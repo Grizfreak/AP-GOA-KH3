@@ -1,0 +1,16 @@
+# This repository intentionally publishes only Unreal content assets plus
+# the top-level project documentation/license files.
+
+# Ignore everything at the repository root by default.
+/*
+
+# Keep Git metadata/configuration files that should be versioned.
+!/.gitignore
+
+# Keep the public project files.
+!/LICENSE
+!/README.md
+
+# Keep all Unreal content.
+!/Content/
+!/Content/**
